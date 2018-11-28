@@ -6,7 +6,7 @@
   <% } %>
   <div class="ctnWrap">
     <a href="<%- url_for(post.path) %>" class="title"><%= post.title %></a>
-    <section class="desc"><%- partial('excerpt', { post: post }) %></section>
+    <section class="desc"><%- partial('excerpt', { post: title }) %></section>
     <p class="sub"><%- date(post.date, 'MMM D, YYYY') %></p>
   </div>
 </div>

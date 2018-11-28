@@ -1,9 +1,13 @@
 title: Flutter
 author: John Doe
-tags: []
+tags: [Flutter,Test]
 categories: []
-date: 2018-11-28 17:11:00
+date: 2018-11-29 17:11:00
+excerpt: Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。
+photos: [../images/flutter.jpg]
+
 ---
+![avatar](http://g.hiphotos.baidu.com/image/pic/item/95eef01f3a292df52ed1255db1315c6034a8736c.jpg)
 # Flutter
 
 Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质量的原生用户界面。 Flutter可以与现有的代码一起工作。在全世界，Flutter正在被越来越多的开发者和组织使用，并且Flutter是完全免费、开源的。
